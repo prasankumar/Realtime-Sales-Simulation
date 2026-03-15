@@ -11,3 +11,15 @@ Steps:
 4. Created a Relational Data Model
 5. Created a Realtime Sale Dashboard
 
+📊 This project simulates real time sales information and performance for Bakery products.
+
+🛠️ Tools Used
+Power BI
+SQL
+DAX (Data Analysis Expressions)
+
+📈 Features
+Real Time Sales Information
+Sales By Product,Person and Type
+
+
