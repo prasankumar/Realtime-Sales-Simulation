@@ -22,4 +22,7 @@ DAX (Data Analysis Expressions)
 Real Time Sales Information
 Sales By Product,Person and Type
 
+🔗 Author
+Prasankumar Bongale  
+
 
