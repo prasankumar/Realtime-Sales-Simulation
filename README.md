@@ -5,9 +5,9 @@ The steps include creating a SQL database and tables, populating those tables wi
 
 Steps:
 
-Created an SQL Server Database
-Created a Sales Simulation Query
-Connected Power BI to SQL Server
-Created a Relational Data Model
-Created a Realtime Sale Dashboard
+1. Created an SQL Server Database
+2. Created a Sales Simulation Query
+3. Connected Power BI to SQL Server
+4. Created a Relational Data Model
+5. Created a Realtime Sale Dashboard
 
