@@ -22,6 +22,9 @@ DAX (Data Analysis Expressions)
 Real Time Sales Information
 Sales By Product,Person and Type
 
+<img width="1322" height="696" alt="Real Time Sales Simulation" src="https://github.com/user-attachments/assets/28b16566-72d1-450b-99b5-32f714c5296b" />
+
+
 🔗 Author
 Prasankumar Bongale  
 
